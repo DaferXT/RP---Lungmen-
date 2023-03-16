@@ -15,7 +15,7 @@
 
 ---
 
-### J'ai eu du mal à créer un "site" gratuit avec mes fichiers markdown. J'espère que cela va fonctionner, et va vous éclaircir le lore alternatif d'arknights initié par M8Gam3.
+### J'ai eu du mal à créer un "site" gratuit avec mes fichiers markdown. J'espère que cela va fonctionner, et va vous éclaircir sur le lore alternatif d'arknights initié par M8Gam3.
 
 ---
 ### Allez sur le [[Sommaire Génerale\|Sommaire Génerale]] pour commencer à lire. 
