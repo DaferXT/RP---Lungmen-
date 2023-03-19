@@ -10,15 +10,18 @@
  ![Lungmen.png](/img/user/Les%20photos/Logos/Lungmen.png)
 
 
+#### <font color=F0FFFF>Ici vous êtes sur la base, la zone débutante, où tout le monde se réuni.</font>
 
-#### Ici vous êtes sur la base, la zone débutante, où tout le monde se réuni. Si vous voyez cette page, vous êtes surement sur le serveur de RP Lungmen, et que vous voulez un petit récapitulatif de tout le RP (Je sais que tout le monde s'en fout).
+#### <font color=F0FFFF>Si vous voyez cette page, vous êtes surement sur le serveur de RP Lungmen, et que vous voulez un petit récapitulatif de tout le RP (Je sais qu'une partie des personnes s'en fout). Mais je le fais aussi pour moi, j'aime bien garder un trace de tout, et j'avais envie de la faire bien, ainsi de le faire profiter à tout le monde.</font>
+
+---
+
+#### J'ai eu du mal à créer un "site" gratuit avec mes fichiers markdown. J'espère que cela va fonctionner, et va vous éclaircir sur le lore alternatif d'arknights initié par M8Gam3.
 
 ---
 
-### J'ai eu du mal à créer un "site" gratuit avec mes fichiers markdown. J'espère que cela va fonctionner, et va vous éclaircir sur le lore alternatif d'arknights initié par M8Gam3.
+#### Allez sur le [[Sommaire Génerale\|Sommaire Génerale]] pour commencer à lire. 
 
----
-### Allez sur le [[Sommaire Génerale\|Sommaire Génerale]] pour commencer à lire. 
 #### Petit conseil, commencez avec le contexte ^^
 
 ---
