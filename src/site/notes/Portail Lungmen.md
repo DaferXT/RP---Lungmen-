@@ -20,7 +20,7 @@
 
 ---
 
-<b><font color = EEE8AA  font size = +2>Allez sur le [[Sommaire Génerale\|Sommaire Génerale]] pour commencer à lire. </font></b>
+<b><font color = EEE8AA  font size = +2>Allez sur le </font></b> [[Sommaire Génerale\|Sommaire Génerale]] <b><font color = EEE8AA  font size = +2>pour commencer à lire. </font></b>
 
 <b><font color = EEE8AA font size = +2>Petit conseil, commencez avec le contexte ^^</font ></b>
 
