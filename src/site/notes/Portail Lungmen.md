@@ -20,17 +20,17 @@
 
 ---
 
-<b><font color = EEE8AA font size = +1 >Allez sur le [[Sommaire Génerale\|Sommaire Génerale]] pour commencer à lire. </font></b>
+<font color = EEE8AA font size = +1 >Allez sur le [[Sommaire Génerale\|Sommaire Génerale]] pour commencer à lire. </font>
 
-<b><font size = +1 font color = EEE8AA>Petit conseil, commencez avec le contexte ^^</font ></b>
+<font size = +1 font color = EEE8AA>Petit conseil, commencez avec le contexte ^^</font >
 
 ---
 
 
-<b><font size = -1 font color = B0E0E6>Ps : La page sera peut être austère(snif, je ne maîtrise pas tout), mais sera amélioré pour l'avenir.<br> <br>
+<font size = -1 font color = B0E0E6>Ps : La page sera peut être austère(snif, je ne maîtrise pas tout), mais sera amélioré pour l'avenir.<br> <br>
 
 Ps2: Les Scènes numérotés ne servent à rien, c'est juste pour mieux se repérer.
 <br> <br>
 Ps3: Le dialogues sont authentiques, et peuvent contenir des fautes.
 
-</font ></b>
+</font >
