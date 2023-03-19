@@ -10,9 +10,9 @@
  ![Lungmen.png](/img/user/Les%20photos/Logos/Lungmen.png)
 
 
-#### <font color=F0FFFF>Ici vous êtes sur la base, la zone débutante, où tout le monde se réuni.</font>
+## <font color=F0FFFF>Ici vous êtes sur la base, la zone débutante, où tout le monde se réuni.</font>
 
-#### <font color=F0FFFF>Si vous voyez cette page, vous êtes surement sur le serveur de RP Lungmen, et que vous voulez un petit récapitulatif de tout le RP (Je sais qu'une partie des personnes s'en fout). Mais je le fais aussi pour moi, j'aime bien garder un trace de tout, et j'avais envie de la faire bien, ainsi de le faire profiter à tout le monde.</font>
+## <font color=F0FFFF>Si vous voyez cette page, vous êtes surement sur le serveur de RP Lungmen, et que vous voulez un petit récapitulatif de tout le RP (Je sais qu'une partie des personnes s'en fout). Mais je le fais aussi pour moi, j'aime bien garder un trace de tout, et j'avais envie de la faire bien, ainsi de le faire profiter à tout le monde.</font>
 
 ---
 
