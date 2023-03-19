@@ -7,19 +7,19 @@ Return [[Sommaire Génerale\|Sommaire Génerale]]
 Return [[Les personnages/Sommaire des personnages\|Sommaire des personnages]]
 
 
-###### <mark style="background: #FF5582A6;">Nom</mark> : 
+### <mark style="background: #FF5582A6;">Nom</mark> : 
 Motarasu
 
 ---
-###### <mark style="background: #FFB86CA6;">Prénom</mark> : 
+### <mark style="background: #FFB86CA6;">Prénom</mark> : 
 Kaen
 
 ---
-###### <mark style="background: #FFF3A3A6;">Âge</mark> : 
+### <mark style="background: #FFF3A3A6;">Âge</mark> : 
 29 ans 
 
 ---
-###### <mark style="background: #BBFABBA6;">Race</mark> : 
+### <mark style="background: #BBFABBA6;">Race</mark> : 
 Sarkaz 
 
 ---
@@ -28,25 +28,28 @@ Sarkaz
 Kaen est froid, détaché et strict en apparence. Leader du groupe de la [[Les Factions/Lungmen Guard Departement (L.G.D)\|L.G.D]], il se montre souvent supérieur à chacun voir toujours. Pourtant il possède un coté plus doux et attentionné, peu, voir personne ne le sais car il a tendance à le cacher mais Kaen aime beaucoup les fleurs et en prend grand soin.
 
 ---
-### <mark style="background: #D2B3FFA6;">Art</mark> : Peut produire des légères flammes 
+### <mark style="background: #D2B3FFA6;">Art</mark> : 
+
+Peut produire des légères flammes 
 
 ---
 ### <mark style="background: #382715B8;"><font color = FFFFF>Infecté(e)</font></mark> : 
 
-**Cristaux d'originium présents sur le corps. Confirmé infecté par examen médical.
+Cristaux d'originium présents sur le corps. Confirmé infecté par examen médical.
 
-**Les tests d'imagerie révèlent des contours flous des organes internes de cet opérateur, assombris par des taches sombres anormales. Son système circulatoire montre un taux anormalement élevé de particules d'Originium, avec d'autres signes d'infection à Oripathy, nous pouvons confirmer que l'opérateur est bien Infecté.
+Les tests d'imagerie révèlent des contours flous des organes internes de cet opérateur, assombris par des taches sombres anormales. Son système circulatoire montre un taux anormalement élevé de particules d'Originium, avec d'autres signes d'infection à Oripathy, nous pouvons confirmer que l'opérateur est bien Infecté.
 
 <mark style="background: #FFB8EBA6;">Assimilation cellule-origine 18 %</mark>
-**L'infection s'est propagée loin, le visage et le cou montrant des signes clairs d'érosion d'Originium.
+L'infection s'est propagée loin, le visage et le cou montrant des signes clairs d'érosion d'Originium.
 
 <mark style="background: #FFB8EBA6;">Densité du sang Originium-Crystal 0,41u/L</mark>
-**Ayant atteint des niveaux d'infection à un stade intermédiaire, et en raison du refus de l'opérateur de coopérer avec le traitement, l'infection est susceptible de s'aggraver.
+Ayant atteint des niveaux d'infection à un stade intermédiaire, et en raison du refus de l'opérateur de coopérer avec le traitement, l'infection est susceptible de s'aggraver.
 
-**Symptômes : obsession pour [[Les personnages/Aizawa14/Eléonora Archigós\|Eléonora Archigós]], force physique amplifiée**
+Symptômes : obsession pour [[Les personnages/Aizawa14/Eléonora Archigós\|Eléonora Archigós]], force physique amplifiée**
 
 ---
-###### <mark style="background: #01154BD4;">Travail</mark> : Leader de la [[Les Factions/Lungmen Guard Departement (L.G.D)\|L.G.D]] 
+###### <mark style="background: #01154BD4;">Travail</mark> : 
+Leader de la [[Les Factions/Lungmen Guard Departement (L.G.D)\|L.G.D]] 
 
 ----
 ### <mark style="background: #FFFFFFD4;">Histoire</mark> : 
