@@ -45,7 +45,7 @@ L'infection s'est propagée loin, le visage et le cou montrant des signes clairs
 <mark style="background: #FFB8EBA6;">Densité du sang Originium-Crystal 0,41u/L</mark>
 Ayant atteint des niveaux d'infection à un stade intermédiaire, et en raison du refus de l'opérateur de coopérer avec le traitement, l'infection est susceptible de s'aggraver.
 
-Symptômes : obsession pour [[Les personnages/Aizawa14/Eléonora Archigós\|Eléonora Archigós]], force physique amplifiée**
+Symptômes : obsession pour [[Les personnages/Aizawa14/Eléonora Archigós\|Eléonora Archigós]], force physique amplifiée
 
 ---
 ###### <mark style="background: #01154BD4;">Travail</mark> : 
